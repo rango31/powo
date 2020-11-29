@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/powo/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/powo/static/js/main.a4233aaf.chunk.js",
-    "main.js.map": "/powo/static/js/main.a4233aaf.chunk.js.map",
+    "main.js": "/powo/static/js/main.b5143dc2.chunk.js",
+    "main.js.map": "/powo/static/js/main.b5143dc2.chunk.js.map",
     "runtime-main.js": "/powo/static/js/runtime-main.2f17dc50.js",
     "runtime-main.js.map": "/powo/static/js/runtime-main.2f17dc50.js.map",
-    "static/js/2.4afb02a5.chunk.js": "/powo/static/js/2.4afb02a5.chunk.js",
-    "static/js/2.4afb02a5.chunk.js.map": "/powo/static/js/2.4afb02a5.chunk.js.map",
+    "static/js/2.d9253199.chunk.js": "/powo/static/js/2.d9253199.chunk.js",
+    "static/js/2.d9253199.chunk.js.map": "/powo/static/js/2.d9253199.chunk.js.map",
     "static/js/3.fe470761.chunk.js": "/powo/static/js/3.fe470761.chunk.js",
     "static/js/3.fe470761.chunk.js.map": "/powo/static/js/3.fe470761.chunk.js.map",
     "index.html": "/powo/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/powo/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.4afb02a5.chunk.js.LICENSE.txt": "/powo/static/js/2.4afb02a5.chunk.js.LICENSE.txt",
+    "static/js/2.d9253199.chunk.js.LICENSE.txt": "/powo/static/js/2.d9253199.chunk.js.LICENSE.txt",
     "static/media/logo.103b5fa1.svg": "/powo/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.2f17dc50.js",
-    "static/js/2.4afb02a5.chunk.js",
+    "static/js/2.d9253199.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.a4233aaf.chunk.js"
+    "static/js/main.b5143dc2.chunk.js"
   ]
 }
