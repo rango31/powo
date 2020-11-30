@@ -82,7 +82,7 @@ class Home extends Component {
             <p>From the survey we noticed the young generaton is spending more time on social media and on their cellphones as a way of learning or just relaxing therefore making this crossword is to get the attection of a lot of youths whilest they scroll through their social media pages our site can be shared as a link. The transition to start playing the game is not hard since this is a web application hence no frastration of leaving your social media page to go to download the application somewhere.</p>
             <p>Lastly with POWO you can measure your knowledge because we added the different levels from easy to hard hence the player will be able to see if they are now well equiped to start or proceed with their journey as politicians.</p>
             
-            <br><p>If this trial works we aim to add a chart section so that fellow women can commmunicate and get mentorship from all over the world</p>
+            <br/><p>If this trial works we aim to add a chat section so that fellow women can commmunicate and get mentorship from all over the world</p>
                                         </div>
                                   
                                     </div>
