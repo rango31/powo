@@ -81,9 +81,7 @@ class Home extends Component {
                                                             <img src="assets/img/icon/icon1.png" alt="" />
                                                         </div>
                                                         <h6>Education</h6>
-                                                        <p>Perspicia unde omn iste natus
-                                                        voluptatem accusantiu dolorcm
-                        laudantium totam rem </p>
+                                                        <p>Learn in a fun way </p>
                                                         
                                                     </div>
                                                 </div>
@@ -93,9 +91,7 @@ class Home extends Component {
                                                             <img src="assets/img/icon/icon2.png" alt="" />
                                                         </div>
                                                         <h6>Awareness</h6>
-                                                        <p>Perspicia unde omn iste natus
-                                                        voluptatem accusantiu dolorcm
-                        laudantium totam rem </p>
+                                                        <p>Sharing is caring.</p>
                                                              </div>
                                                 </div>
                                             </div>

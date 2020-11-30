@@ -54,7 +54,7 @@ class Puzzle2 extends Component {
                                     theme={{
                                         columnBreakpoint: '9999px',
                                         gridBackground: '#acf',
-                                        cellBackground: '#ffe',
+                                        cellBackground: 'grey',
                                         cellBorder: '#fca',
                                         textColor: '#fff',
                                         numberColor: '#9f9',
