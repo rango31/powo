@@ -7,7 +7,7 @@ class Sidebar extends Component {
         return (
             <aside className="slide-bar">
                 <div className="close-mobile-menu">
-                    <a href="javascript:void(0);"><i className="fas fa-times" /></a>
+                    <a href="javascript:void(0);"><i className="fas fa-times" /></a> 
                 </div>
                 {/* offset-sidebar start */}
                 <div className="offset-sidebar">
