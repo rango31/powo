@@ -16,18 +16,18 @@ class Puzzle2 extends Component {
 
         const data = {
             across: {
-                1: { clue: 'one of the objectives of the Zimbabwean women`s parliamentary causus is to advocate for legislation on ........ main streaming?', answer: 'gender', row: 0, col: 1 },
-                5: { clue: 'In 2017 ....... Was  placed under house arrest?', answer: 'Mugabe', row: 2, col: 2 },
-                6: { clue: '270 many members are in the ......... assembly?', answer: 'National', row: 4, col: 6 },
-                7: { clue: 'By how many percent did the number of women in decision making position increase in the house of assembly?', answer: 'six', row: 5, col: 2 },
-                8: { clue: 'In 2018 32% percent of .......occupied the national assembly seats?', answer: 'women', row: 6, col: 6 },
-                9: { clue: 'The parliament is the bicameral legislature of Zimbabwe and is composed of two chambers the .......and the national assembly', answer: 'Senate', row: 7, col: 0 },
+                1: { clue: 'one of the objectives of the Zimbabwean women`s parliamentary causus is to advocate for legislation on ........ main streaming?', answer: 'GENDER', row: 0, col: 1 },
+                5: { clue: 'In 2017 ....... Was  placed under house arrest?', answer: 'MUGABE', row: 2, col: 2 },
+                6: { clue: '270 many members are in the ......... assembly?', answer: 'NATIONAL', row: 4, col: 6 },
+                7: { clue: 'By how many percent did the number of women in decision making position increase in the house of assembly?', answer: 'SIX', row: 5, col: 2 },
+                8: { clue: 'In 2018 32% percent of .......occupied the national assembly seats?', answer: 'WOMEN', row: 6, col: 6 },
+                9: { clue: 'The parliament is the bicameral legislature of Zimbabwe and is composed of two chambers the .......and the national assembly', answer: 'SENATE', row: 7, col: 0 },
                
             },
             down: {
-                2: { clue: 'The president of Zimbabwe.', answer: 'Emmerson', row: 0, col: 2 },
-                3: { clue: '80 ....... are there in Zimbabwean parliament  currently ?', answer: 'Sanators', row: 1, col: 7 },
-                4: { clue: 'Zimbabwean women’s parliamentary ....... was launched in 2001', answer: 'Caucus', row: 2, col: 0 },
+                2: { clue: 'The president of Zimbabwe.', answer: 'EMMERSON', row: 0, col: 2 },
+                3: { clue: '80 ....... are there in Zimbabwean parliament  currently ?', answer: 'SENATORS', row: 1, col: 7 },
+                4: { clue: 'Zimbabwean women’s parliamentary ....... was launched in 2001', answer: 'CAUCUS', row: 2, col: 0 },
                 
                
             },
