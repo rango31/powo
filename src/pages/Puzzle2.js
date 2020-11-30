@@ -10,8 +10,41 @@ class Puzzle2 extends Component {
    
 
     render() {
-        function wow() {
-            alert("correct");
+         const [open, setOpen] = React.useState(false);
+
+            const handleClickOpen = () => {
+              setOpen(true);
+            };
+          
+            const handleClose = () => {
+              setOpen(false);
+            };
+          
+            return (
+              <div>
+                <Button variant="outlined" color="primary" onClick={handleClickOpen}>
+                  Open alert dialog
+                </Button>
+                <Dialog
+                  open={open}
+                  onClose={handleClose}
+                  aria-labelledby="alert-dialog-title"
+                  aria-describedby="alert-dialog-description"
+                >
+                  <DialogTitle id="alert-dialog-title">{"Use Google's location service?"}</DialogTitle>
+                  <DialogContent>
+                    <DialogContentText id="alert-dialog-description">
+                     Congratulations!! Crossword complete
+                    </DialogContentText>
+                  </DialogContent>
+                  <DialogActions>
+                    <Button onClick={handleClose} color="primary" autoFocus>
+                      Close
+                    </Button>
+                  </DialogActions>
+                </Dialog>
+              </div>
+            );
         }
 
         const data = {
@@ -28,7 +61,7 @@ class Puzzle2 extends Component {
             down: {
                 2: { clue: 'The president of Zimbabwe.', answer: 'Emmerson', row: 0, col: 2 },
                 3: { clue: '80 ....... are there in Zimbabwean parliament  currently ?', answer: 'Sanators', row: 1, col: 7 },
-                4: { clue: 'Zimbabwean women’s parliamentary ....... was launched in 2001', answer: 'Caucus', row: 2, col: 0 },
+                4: { clue: 'Zimbabwean womenâ€™s parliamentary ....... was launched in 2001', answer: 'Caucus', row: 2, col: 0 },
                 
                
             },
