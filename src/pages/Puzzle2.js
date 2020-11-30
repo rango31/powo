@@ -22,7 +22,6 @@ class Puzzle2 extends Component {
                 7: { clue: 'By how many percent did the number of women in decision making position increase in the house of assembly?', answer: 'six', row: 5, col: 2 },
                 8: { clue: 'In 2018 32% percent of .......occupied the national assembly seats?', answer: 'women', row: 6, col: 6 },
                 9: { clue: 'The parliament is the bicameral legislature of Zimbabwe and is composed of two chambers the .......and the national assembly', answer: 'Senate', row: 7, col: 0 },
-                5: { clue: 'In 2017 ....... Was  placed under house arrest?', answer: 'Mugabe', row: 2, col: 2 },
                
             },
             down: {
